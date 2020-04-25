@@ -12,3 +12,6 @@ git commit -m "Unique message."    #Commit the changes
 git log                            #See the commit history
 
 git push origin master             #Push the commits back to Github
+
+--Push git cloned repository to your own on GitHub--
+https://dev.to/dance2die/push-git-cloned-repository-to-your-own-on-github-1ili
